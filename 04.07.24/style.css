@@ -1,0 +1,28 @@
+#first{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+.stop{
+    background-color: red;
+}
+.slow{
+    background-color: rgb(182, 145, 76);
+}
+.go{
+    background-color: green;
+}
+.aquatic{
+    background-color: aqua;
+}
+.legend{
+    margin: 0%;
+}
+#one{
+    background-color: red;
+}
+#two{
+    background-color:rgb(182, 145, 76);
+}
+#three{
+    background-color: aqua;
+}
